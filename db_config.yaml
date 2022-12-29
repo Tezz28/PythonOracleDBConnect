@@ -1,0 +1,6 @@
+- DB:
+    HOST: HostIP
+    PORT: PortNumber
+    SERVICE_NAME: ServiceName
+    USER: UserName
+    PASSWORD: Passwd
